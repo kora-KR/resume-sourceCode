@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "element-ui": "^2.9.1",
